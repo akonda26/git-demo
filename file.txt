@@ -5,3 +5,4 @@ this is not a dummy file
 dummy text
 rebase example
 checking with atom
+checking with the source tree.
