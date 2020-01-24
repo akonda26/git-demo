@@ -6,3 +6,4 @@ dummy text
 rebase example
 checking with atom
 checking with the source tree.
+this is the second commit
